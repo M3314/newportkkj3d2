@@ -58,12 +58,14 @@
   <ItemGroup>
     <Compile Include="Assets\VRM\UniGLTF\Scripts\Extensions\glTFExtensions.cs" />
     <Compile Include="Assets\VRM\UniHumanoid\Scenes\RuntimeBvhLoader.cs" />
+    <Compile Include="Assets\Data\MMD\mmd-for-unity-proj-mmd-for-unity-82ac2fe\Resources\MMDSkinsScript.cs" />
     <Compile Include="Assets\VRM\UniVRM\Scripts\Format\VRMFormat.cs" />
     <Compile Include="Assets\VRM\UniJSON\Scripts\Utf8String\Utf8StringBuilder.cs" />
     <Compile Include="Assets\VRM\UniJSON\Scripts\IValue.cs" />
     <Compile Include="Assets\VRM\UniGLTF\Scripts\IO\gltfExporter.cs" />
     <Compile Include="Assets\VRM\UniVRM\Scripts\Meta\VRMMeta.cs" />
     <Compile Include="Assets\VRM\UniUnlit\Scripts\Utils.cs" />
+    <Compile Include="Assets\Data\MMD\mmd-for-unity-proj-mmd-for-unity-82ac2fe\Resources\Morph\MaterialMorph.cs" />
     <Compile Include="Assets\PMXExporter\MMDataIO\Pmx\PmxMaterialData.cs" />
     <Compile Include="Assets\VRM\DepthFirstScheduler\LockQueue.cs" />
     <Compile Include="Assets\VRM\UniVRM\Scripts\SpringBone\VRMSpringBoneColliderGroup.cs" />
@@ -82,6 +84,7 @@
     <Compile Include="Assets\VRM\UniJSON\Scripts\Extensions\TypeExtensions.cs" />
     <Compile Include="Assets\VRM\UniJSON\Scripts\MsgPack\MsgPackFormatter.cs" />
     <Compile Include="Assets\VRM\UniJSON\Scripts\Extensions\EnumExtensions.cs" />
+    <Compile Include="Assets\Data\MMD\mmd-for-unity-proj-mmd-for-unity-82ac2fe\Resources\Morph\UvMorph.cs" />
     <Compile Include="Assets\VRM\UniJSON\Scripts\Utf8String\Utf8Iterator.cs" />
     <Compile Include="Assets\VRM\DepthFirstScheduler\TaskChain.cs" />
     <Compile Include="Assets\PMXExporter\Util\TextureExt.cs" />
@@ -128,6 +131,7 @@
     <Compile Include="Assets\VRM\UniGLTF\Scripts\IO\AnimationImporter.cs" />
     <Compile Include="Assets\VRM\UniHumanoid\PoseModifier\HandRig.cs" />
     <Compile Include="Assets\VRM\UniGLTF\Scripts\Format\glTFAnimation.cs" />
+    <Compile Include="Assets\Data\MMD\mmd-for-unity-proj-mmd-for-unity-82ac2fe\Resources\Morph\MorphManager.cs" />
     <Compile Include="Assets\VRM\UniJSON\Scripts\ConcreteCast.cs" />
     <Compile Include="Assets\VRM\UniJSON\Scripts\Json\JsonPointer.cs" />
     <Compile Include="Assets\VRM\UniVRM\Scripts\Format\glTF_VRM_Material.cs" />
@@ -154,6 +158,7 @@
     <Compile Include="Assets\VRM\UniGLTF\Scripts\Format\GLTFJsonFormatter.cs" />
     <Compile Include="Assets\VRM\UniGLTF\Scripts\Format\glTFNode.cs" />
     <Compile Include="Assets\VRM\UniVRM\Scripts\BlendShape\BlendShapeClipHandler.cs" />
+    <Compile Include="Assets\Data\MMD\mmd-for-unity-proj-mmd-for-unity-82ac2fe\Resources\Morph\BoneMorph.cs" />
     <Compile Include="Assets\VRM\MToon\MToon\Scripts\MToonDefinition.cs" />
     <Compile Include="Assets\VRM\UniVRM\Scripts\FirstPerson\VRMFirstPersonCameraManager.cs" />
     <Compile Include="Assets\VRM\UniGLTF\Scripts\IO\MeshWithMaterials.cs" />
@@ -167,9 +172,12 @@
     <Compile Include="Assets\VRM\UniGLTF\Scripts\IO\ZipArchiveStorage.cs" />
     <Compile Include="Assets\VRM\UniGLTF\Scripts\Format\glTFBuffer.cs" />
     <Compile Include="Assets\VRM\UniVRM\Scripts\IVRMComponent.cs" />
+    <Compile Include="Assets\Data\MMD\mmd-for-unity-proj-mmd-for-unity-82ac2fe\Resources\PhysicsManager.cs" />
     <Compile Include="Assets\VRM\UniJSON\Scripts\Utf8String\Utf8String.cs" />
     <Compile Include="Assets\VRM\UniGLTF\Scripts\Format\ExtensionsAndExtras\glTFCameraExtensions.cs" />
     <Compile Include="Assets\VRM\UniVRM\Scripts\PreExportShaderProps\VRM_MToon.cs" />
+    <Compile Include="Assets\Data\MMD\mmd-for-unity-proj-mmd-for-unity-82ac2fe\Resources\Morph\MorphBase.cs" />
+    <Compile Include="Assets\Data\MMD\mmd-for-unity-proj-mmd-for-unity-82ac2fe\Resources\IK\CCDIKSolver.cs" />
     <Compile Include="Assets\VRM\UniGLTF\Scripts\IO\ShaderPropExporter\PreShaderPropExporter.cs" />
     <Compile Include="Assets\VRM\UniJSON\Scripts\ByteBuffer.cs" />
     <Compile Include="Assets\VRM\UniJSON\Scripts\GenericCallUtility\GenericInvokeCallFactory.cs" />
@@ -180,6 +188,7 @@
     <Compile Include="Assets\VRM\UniVRM\Scripts\SkinnedMeshUtility\BoneNormalizer.cs" />
     <Compile Include="Assets\PMXExporter\MMDataIO\Pmx\PmxModelData.cs" />
     <Compile Include="Assets\VRM\UniHumanoid\Scripts\HumanPoseClip.cs" />
+    <Compile Include="Assets\Data\MMD\mmd-for-unity-proj-mmd-for-unity-82ac2fe\Resources\Morph\VertexMorph.cs" />
     <Compile Include="Assets\VRM\UniGLTF\Scripts\IO\UnityPath.cs" />
     <Compile Include="Assets\VRM\UniJSON\Scripts\GenericCallUtility\GenericExpressionCallFactory.g.cs" />
     <Compile Include="Assets\VRM\UniGLTF\Scripts\IO\ShaderStore.cs" />
@@ -187,6 +196,7 @@
     <Compile Include="Assets\VRM\UniVRM\Scripts\LookAt\VRMLookAtHead.cs" />
     <Compile Include="Assets\VRM\UniGLTF\Scripts\Format\ExtensionsAndExtras\glTFExtensions.cs" />
     <Compile Include="Assets\VRM\UniVRM\Scripts\FirstPerson\VRMFirstPerson.cs" />
+    <Compile Include="Assets\Data\MMD\mmd-for-unity-proj-mmd-for-unity-82ac2fe\Resources\IK\BoneController.cs" />
     <Compile Include="Assets\VRM\UniJSON\Scripts\MsgPack\MsgPackType.cs" />
     <Compile Include="Assets\PMXExporter\MMDataIO\Pmx\IPmxData.cs" />
     <Compile Include="Assets\VRM\UniGLTF\Scripts\Extensions\StringExtensions.cs" />
@@ -214,12 +224,14 @@
     <Compile Include="Assets\VRM\UniGLTF\Scripts\Format\glTFAssets.cs" />
     <Compile Include="Assets\VRM\UniJSON\Scripts\Json\JsonValue.cs" />
     <Compile Include="Assets\VRM\UniGLTF\Scripts\Format\ExtensionsAndExtras\glTFNode.cs" />
+    <Compile Include="Assets\Data\MMD\mmd-for-unity-proj-mmd-for-unity-82ac2fe\Resources\MMDEngine.cs" />
     <Compile Include="Assets\VRM\UniJSON\Scripts\JsonSchemaValidator\JsonBoolValidator.cs" />
     <Compile Include="Assets\VRM\UniJSON\Scripts\JsonSchemaValidator\JsonDictionaryValidator.cs" />
     <Compile Include="Assets\VRM\UniGLTF\Scripts\IO\MaterialImporter.cs" />
     <Compile Include="Assets\VRM\UniVRM\Scripts\BlendShape\BlendShapeBindingMerger.cs" />
     <Compile Include="Assets\VRM\UniVRM\Scripts\LookAt\Matrix4x4Extensions.cs" />
     <Compile Include="Assets\VRM\UniHumanoid\Scripts\Format\Bvh.cs" />
+    <Compile Include="Assets\Data\MMD\mmd-for-unity-proj-mmd-for-unity-82ac2fe\Resources\ExpressionManagerScript.cs" />
     <Compile Include="Assets\VRM\UniJSON\Scripts\Json\JsonDiff.cs" />
     <Compile Include="Assets\VRM\UniJSON\Scripts\Utf8String\Utf8StringSplitterExtensions.cs" />
     <Compile Include="Assets\VRM\UniGLTF\Scripts\IO\MaterialExporter.cs" />
@@ -244,6 +256,7 @@
     <Compile Include="Assets\VRM\UniVRM\Scripts\Format\VRMImporterContext.cs" />
     <Compile Include="Assets\VRM\UniJSON\Scripts\JsonSchemaValidator\JsonStringValidator.cs" />
     <Compile Include="Assets\PMXExporter\Util\MeshUtil.cs" />
+    <Compile Include="Assets\Data\MMD\mmd-for-unity-proj-mmd-for-unity-82ac2fe\Resources\Morph\GroupMorph.cs" />
     <Compile Include="Assets\VRM\UniJSON\Scripts\Exceptions.cs" />
     <Compile Include="Assets\VRM\UniGLTF\Scripts\IO\TextureExportManager.cs" />
     <Compile Include="Assets\VRM\UniJSON\Scripts\IStore\BytesStore.cs" />
@@ -307,19 +320,6 @@
     <Compile Include="Assets\VRM\UniGLTF\Scripts\IO\MeshExporter.cs" />
     <Compile Include="Assets\VRM\UniHumanoid\PoseModifier\IPoseModifier.cs" />
     <Compile Include="Assets\VRM\UniJSON\Scripts\JsonSchemaValidator\JsonArrayValidator.cs" />
-    <Compile Include="Assets\Data\MMD\mmd-for-unity-proj-mmd-for-unity-82ac2fe\Resources\Morph\UvMorph.cs" />
-    <Compile Include="Assets\Data\MMD\mmd-for-unity-proj-mmd-for-unity-82ac2fe\Resources\Morph\VertexMorph.cs" />
-    <Compile Include="Assets\Data\MMD\mmd-for-unity-proj-mmd-for-unity-82ac2fe\Resources\Morph\MorphManager.cs" />
-    <Compile Include="Assets\Data\MMD\mmd-for-unity-proj-mmd-for-unity-82ac2fe\Resources\Morph\MorphBase.cs" />
-    <Compile Include="Assets\Data\MMD\mmd-for-unity-proj-mmd-for-unity-82ac2fe\Resources\Morph\MaterialMorph.cs" />
-    <Compile Include="Assets\Data\MMD\mmd-for-unity-proj-mmd-for-unity-82ac2fe\Resources\MMDSkinsScript.cs" />
-    <Compile Include="Assets\Data\MMD\mmd-for-unity-proj-mmd-for-unity-82ac2fe\Resources\ExpressionManagerScript.cs" />
-    <Compile Include="Assets\Data\MMD\mmd-for-unity-proj-mmd-for-unity-82ac2fe\Resources\IK\CCDIKSolver.cs" />
-    <Compile Include="Assets\Data\MMD\mmd-for-unity-proj-mmd-for-unity-82ac2fe\Resources\PhysicsManager.cs" />
-    <Compile Include="Assets\Data\MMD\mmd-for-unity-proj-mmd-for-unity-82ac2fe\Resources\Morph\GroupMorph.cs" />
-    <Compile Include="Assets\Data\MMD\mmd-for-unity-proj-mmd-for-unity-82ac2fe\Resources\MMDEngine.cs" />
-    <Compile Include="Assets\Data\MMD\mmd-for-unity-proj-mmd-for-unity-82ac2fe\Resources\Morph\BoneMorph.cs" />
-    <Compile Include="Assets\Data\MMD\mmd-for-unity-proj-mmd-for-unity-82ac2fe\Resources\IK\BoneController.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
@@ -335,6 +335,7 @@
     <None Include="Assets\Data\Mirrored Flourishes-Saule\rules.txt" />
     <None Include="Assets\VRM\UniGLTF\Resources\Shaders\NormalMapDecoder.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
+    <None Include="Assets\Data\Stygian Nymph-Veliona\rules.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
     <None Include="Assets\PMXExporter\readme.txt" />
     <None Include="Assets\Data\MMD\mmd-for-unity-proj-mmd-for-unity-82ac2fe\Resources\PMDMaterial\Shaders\MeshPmdMaterialOutline-Trans.shader" />
@@ -370,6 +371,7 @@
     <None Include="Assets\VRM\UniUnlit\Resources\UniUnlit.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
     <None Include="Assets\Data\MMD\mmd-for-unity-proj-mmd-for-unity-82ac2fe\Resources\PMDMaterial\Shaders\MeshPmdMaterial-Trans-CullBack.shader" />
+    <None Include="Assets\Data\Stygian Nymph-Saule\rules.txt" />
     <None Include="Assets\Data\MMD\mmd-for-unity-proj-mmd-for-unity-82ac2fe\Resources\PMDMaterial\Shaders\MeshPmdMaterial-CullBack.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
