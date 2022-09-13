@@ -93,6 +93,7 @@
     <Compile Include="Assets\VRM\UniVRM\Scripts\BlendShape\MaterialValueBindingMerger.cs" />
     <Compile Include="Assets\VRM\UniGLTF\Scripts\IO\gltfImporter.cs" />
     <Compile Include="Assets\VRM\UniHumanoid\Scripts\IO\BvhImporterContext.cs" />
+    <Compile Include="Assets\Scripts\SceneControl\LoadingValkiri.cs" />
     <Compile Include="Assets\VRM\UniJSON\Scripts\MsgPack\MsgPackParser.cs" />
     <Compile Include="Assets\VRM\UniGLTF\Scripts\Format\glTFCamera.cs" />
     <Compile Include="Assets\VRM\UniJSON\Scripts\GenericCallUtility\GenericInvokeCallFactory.g.cs" />
@@ -184,6 +185,7 @@
     <Compile Include="Assets\VRM\UniJSON\Scripts\GenericCallUtility\GenericInvokeCallFactory.cs" />
     <Compile Include="Assets\VRM\UniGLTF\Scripts\PreExportShaderProps\UniGLTF_UniUnlit.cs" />
     <Compile Include="Assets\VRM\UniJSON\Scripts\Json\JsonSchemaAttribute.cs" />
+    <Compile Include="Assets\Scripts\TouchToStartButton.cs" />
     <Compile Include="Assets\VRM\DepthFirstScheduler\Scheduler\ThreadPoolScheduler.cs" />
     <Compile Include="Assets\VRM\UniGLTF\Scripts\PreExportShaderProps\Unlit_Transparent.cs" />
     <Compile Include="Assets\VRM\UniVRM\Scripts\SkinnedMeshUtility\BoneNormalizer.cs" />
@@ -321,7 +323,9 @@
     <Compile Include="Assets\VRM\UniGLTF\Scripts\IO\MeshExporter.cs" />
     <Compile Include="Assets\VRM\UniHumanoid\PoseModifier\IPoseModifier.cs" />
     <Compile Include="Assets\VRM\UniJSON\Scripts\JsonSchemaValidator\JsonArrayValidator.cs" />
-    <Compile Include="Assets\Scripts\TouchToStartButton.cs" />
+    <Compile Include="Assets\Scripts\SceneControl\SelectChatoHome.cs" />
+    <Compile Include="Assets\Scripts\SceneControl\MenuPausePopup.cs" />
+    <Compile Include="Assets\Scripts\SceneControl\Resume.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
@@ -331,6 +335,7 @@
     <None Include="Assets\Data\MMD\mmd-for-unity-proj-mmd-for-unity-82ac2fe\Resources\PMDMaterial\Shaders\MeshPmdMaterialOutline-CullBack-NoCastShadow.shader" />
     <None Include="Assets\Data\MMD\mmd-for-unity-proj-mmd-for-unity-82ac2fe\Resources\PMDMaterial\Shaders\MeshPmdMaterial-Trans.shader" />
     <None Include="Assets\Data\MMD\mmd-for-unity-proj-mmd-for-unity-82ac2fe\Resources\PMDMaterial\Shaders\MeshPmdMaterialOutline-Trans-CullBack-NoCastShadow.shader" />
+    <None Include="Assets\Data\ying\荧\使用规则.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
     <None Include="Assets\VRM\UniVRM\Resources\Shaders\VRMUnlitTransparentZWrite.shader" />
     <None Include="Assets\Data\MMD\mmd-for-unity-proj-mmd-for-unity-82ac2fe\Resources\PMDMaterial\Shaders\MeshPmdMaterialOutline-Trans-NoCastShadow.shader" />
@@ -344,6 +349,7 @@
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
     <None Include="Assets\AnimeGirls\BaseCharacter\BaseCharacter\Sourcefiles\Shader\DoubleSided.shader" />
     <None Include="Assets\PMXExporter\LICENSE.txt" />
+    <None Include="Assets\Data\6PznvBhyEu\readme【一定要看】.txt" />
     <None Include="Assets\Data\MMD\mmd-for-unity-proj-mmd-for-unity-82ac2fe\Resources\PMDMaterial\Shaders\MeshPmdMaterial-NoCastShadow.shader" />
     <None Include="Assets\VRM\MToon\MToon\Resources\Shaders\MToonSM4.cginc" />
     <None Include="Assets\Seven Swords\Swords\Shader\ToonSwords.shader" />
@@ -374,6 +380,7 @@
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
     <None Include="Assets\Data\MMD\mmd-for-unity-proj-mmd-for-unity-82ac2fe\Resources\PMDMaterial\Shaders\MeshPmdMaterial-Trans-CullBack.shader" />
     <None Include="Assets\Data\Stygian Nymph-Saule\rules.txt" />
+    <None Include="Assets\Data\babala\芭芭拉\readme【一定要看】.txt" />
     <None Include="Assets\Data\MMD\mmd-for-unity-proj-mmd-for-unity-82ac2fe\Resources\PMDMaterial\Shaders\MeshPmdMaterial-CullBack.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
