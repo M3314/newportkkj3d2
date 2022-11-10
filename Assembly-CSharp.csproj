@@ -373,6 +373,12 @@
     <Compile Include="Assets\VRM\UniHumanoid\PoseModifier\IPoseModifier.cs" />
     <Compile Include="Assets\freeHDRI_assets\Standard Assets\Effects\ImageEffects\Scripts\Triangles.cs" />
     <Compile Include="Assets\VRM\UniJSON\Scripts\JsonSchemaValidator\JsonArrayValidator.cs" />
+    <Compile Include="Assets\Scripts\Character\CharacterSelect.cs" />
+    <Compile Include="Assets\Scripts\Character\Characterssss.cs" />
+    <Compile Include="Assets\Scripts\Character\CharacterSelectManager.cs" />
+    <Compile Include="Assets\Scripts\Character\selectingPosition.cs" />
+    <Compile Include="Assets\Scripts\Character\SettingCharacter.cs" />
+    <Compile Include="Assets\Scripts\Character\ButtonSelect.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\freeHDRI_assets\Standard Assets\Effects\ImageEffects\Shaders\Tonemapper.shader" />
@@ -1156,6 +1162,9 @@
     </Reference>
     <Reference Include="UnityEngine.UI">
       <HintPath>Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.2D.Sprite.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
