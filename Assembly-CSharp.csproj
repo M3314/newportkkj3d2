@@ -436,6 +436,7 @@
     <Compile Include="Assets\VRM\UniHumanoid\PoseModifier\IPoseModifier.cs" />
     <Compile Include="Assets\freeHDRI_assets\Standard Assets\Effects\ImageEffects\Scripts\Triangles.cs" />
     <Compile Include="Assets\VRM\UniJSON\Scripts\JsonSchemaValidator\JsonArrayValidator.cs" />
+    <Compile Include="Assets\Foggy Mountains Background\Demo\BackgroundHelper.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\freeHDRI_assets\Standard Assets\Effects\ImageEffects\Shaders\Tonemapper.shader" />
@@ -446,7 +447,6 @@
     <None Include="Assets\freeHDRI_assets\Standard Assets\Effects\ImageEffects\Shaders\NoiseAndGrain.shader" />
     <None Include="Assets\freeHDRI_assets\Standard Assets\Effects\Projectors\Shaders\ProjectorLight.shader" />
     <None Include="Assets\Data\MMD\mmd-for-unity-proj-mmd-for-unity-82ac2fe\Resources\PMDMaterial\Shaders\MeshPmdMaterialSurface.cginc" />
-    <None Include="Assets\Data\Mirrored Flourishes-Veliona\rules.txt" />
     <None Include="Assets\freeHDRI_assets\Standard Assets\Effects\Projectors\Shaders\ProjectorMultiply.shader" />
     <None Include="Assets\freeHDRI_assets\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\DLAA.shader" />
     <None Include="Assets\freeHDRI_assets\Standard Assets\Effects\ImageEffects\Shaders\frag_ao.cginc" />
@@ -461,21 +461,21 @@
     <None Include="Assets\FSP\MAST\Etc\Shader_Eraser_SRP.shader" />
     <None Include="Assets\EasyPolyMap\Demos\OtherDemoData\Circle_Island_Data.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
+    <None Include="Assets\Supercyan Free Forest Sample\Shaders\Legacy\CelShader.shader" />
     <None Include="Assets\VRM\UniVRM\Resources\Shaders\VRMUnlitTransparentZWrite.shader" />
     <None Include="Assets\freeHDRI_assets\Standard Assets\Effects\ImageEffects\Shaders\VignettingShader.shader" />
     <None Include="Assets\freeHDRI_assets\Standard Assets\Effects\ImageEffects\Shaders\ColorCorrectionCurves.shader" />
     <None Include="Assets\Data\MMD\mmd-for-unity-proj-mmd-for-unity-82ac2fe\Resources\PMDMaterial\Shaders\MeshPmdMaterialOutline-Trans-NoCastShadow.shader" />
     <None Include="Assets\freeHDRI_assets\Standard Assets\Effects\Projectors\Guidelines.txt" />
+    <None Include="Assets\Supercyan Free Forest Sample\Shaders\SupercyanShaderLighting.cginc" />
     <None Include="Assets\freeHDRI_assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\MultiPassHollywoodFlares.shader" />
     <None Include="Assets\freeHDRI_assets\Standard Assets\Effects\ImageEffects\Shaders\SSAOShader.shader" />
     <None Include="Assets\freeHDRI_assets\Standard Assets\Effects\ImageEffects\Shaders\ColorCorrectionCurvesSimple.shader" />
-    <None Include="Assets\Data\Mirrored Flourishes-Saule\rules.txt" />
     <None Include="Assets\freeHDRI_assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\Blend.shader" />
     <None Include="Assets\VRM\UniGLTF\Resources\Shaders\NormalMapDecoder.shader" />
     <None Include="Assets\freeHDRI_assets\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\SSAA.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
     <None Include="Assets\freeHDRI_assets\Standard Assets\Effects\ImageEffects\Shaders\SunShaftsComposite.shader" />
-    <None Include="Assets\Data\Stygian Nymph-Veliona\rules.txt" />
     <None Include="Assets\freeHDRI_assets\Standard Assets\Effects\ImageEffects\Shaders\ConvertDepth.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
     <None Include="Assets\PMXExporter\readme.txt" />
@@ -492,6 +492,7 @@
     <None Include="Assets\Data\7-1Hanami-Daimyo_1593489744_4938\7-1Hanami Daimyo\rules.txt" />
     <None Include="Assets\freeHDRI_assets\Standard Assets\Effects\ImageEffects\Shaders\CreaseApply.shader" />
     <None Include="Assets\freeHDRI_assets\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\FXAA3Console.shader" />
+    <None Include="Assets\Supercyan Free Forest Sample\Shaders\SupercyanShader.shader" />
     <None Include="Assets\freeHDRI_assets\Standard Assets\Effects\ImageEffects\Shaders\ColorCorrectionSelective.shader" />
     <None Include="Assets\freeHDRI_assets\Standard Assets\Effects\ImageEffects\Shaders\RadialBlur.shader" />
     <None Include="Assets\freeHDRI_assets\Standard Assets\Effects\ImageEffects\Shaders\ScreenSpaceRaytrace.cginc" />
@@ -573,7 +574,6 @@
     <None Include="Assets\Data\MMD\mmd-for-unity-proj-mmd-for-unity-82ac2fe\Resources\PMDMaterial\Shaders\MeshPmdMaterial-Trans-CullBack.shader" />
     <None Include="Assets\FSP\MAST\Etc\Shader_Grid_SRP.shader" />
     <None Include="Assets\FSP\MAST\readme.txt" />
-    <None Include="Assets\Data\Stygian Nymph-Saule\rules.txt" />
     <None Include="Assets\Data\babala\芭芭拉\readme【一定要看】.txt" />
     <None Include="Assets\freeHDRI_assets\Standard Assets\Effects\ImageEffects\Shaders\NoiseEffectShaderRGB.shader" />
     <None Include="Assets\Data\MMD\mmd-for-unity-proj-mmd-for-unity-82ac2fe\Resources\PMDMaterial\Shaders\MeshPmdMaterial-CullBack.shader" />
