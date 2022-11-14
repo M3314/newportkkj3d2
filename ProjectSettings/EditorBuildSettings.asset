@@ -20,6 +20,18 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SelectCharacter.unity
     guid: eb97f69067893f648944f773b6854394
+  - enabled: 1
+    path: Assets/Scenes/StageSelect.unity
+    guid: be64c880de4f0db4b9c769615a614c69
+  - enabled: 1
+    path: Assets/Scenes/SelectCharacterInGame.unity
+    guid: d09387b7c57c5ff4793e0fb6aca87b49
+  - enabled: 1
+    path: Assets/Scenes/Map Tutorial.unity
+    guid: d12eb8cc47e403d45b2a2fb0233c5925
+  - enabled: 1
+    path: Assets/Scenes/Level 1.unity
+    guid: 85cffce22aaa41f4c88a770f0285cb43
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: 9eb07e2d669e9c94e9d7d3c782a916f7,
       type: 2}
