@@ -93,6 +93,7 @@
     <Compile Include="Assets\Infima Games\Low Poly Shooter Pack - Free Sample\Code\Camera\CameraLook.cs" />
     <Compile Include="Assets\VRM\UniJSON\Scripts\MsgPack\MsgPackFormatter.cs" />
     <Compile Include="Assets\VRM\UniJSON\Scripts\Extensions\EnumExtensions.cs" />
+    <Compile Include="Assets\Scripts\EffectControl.cs" />
     <Compile Include="Assets\Infima Games\Low Poly Shooter Pack - Free Sample\Code\Services\IGameModeService.cs" />
     <Compile Include="Assets\Data\MMD\mmd-for-unity-proj-mmd-for-unity-82ac2fe\Resources\Morph\UvMorph.cs" />
     <Compile Include="Assets\VRM\UniJSON\Scripts\Utf8String\Utf8Iterator.cs" />
@@ -217,6 +218,7 @@
     <Compile Include="Assets\VRM\UniJSON\Scripts\ActionDisposer.cs" />
     <Compile Include="Assets\VRM\UniJSON\Scripts\JsonSchemaValidator\JsonNumberValidator.cs" />
     <Compile Include="Assets\VRM\UniVRM\Scripts\BlendShape\BlendShapeMerger.cs" />
+    <Compile Include="Assets\Scripts\UI Scene\StageSelectResumeBuutton.cs" />
     <Compile Include="Assets\freeHDRI_assets\Standard Assets\Effects\ImageEffects\Scripts\Tonemapping.cs" />
     <Compile Include="Assets\VRM\UniJSON\Scripts\ITreeNode.cs" />
     <Compile Include="Assets\PMXExporter\MMDataIO\CloneUtil.cs" />
@@ -242,6 +244,7 @@
     <Compile Include="Assets\freeHDRI_assets\Standard Assets\Effects\ImageEffects\Scripts\VignetteAndChromaticAberration.cs" />
     <Compile Include="Assets\VRM\UniJSON\Scripts\Json\JsonSchemaAttribute.cs" />
     <Compile Include="Assets\EasyPolyMap\Demos\EPMDemoScene.cs" />
+    <Compile Include="Assets\Scripts\UI Scene\PlayGameScene.cs" />
     <Compile Include="Assets\freeHDRI_assets\Standard Assets\Effects\ImageEffects\Scripts\ScreenOverlay.cs" />
     <Compile Include="Assets\Scripts\TouchToStartButton.cs" />
     <Compile Include="Assets\freeHDRI_assets\Standard Assets\Effects\ImageEffects\Scripts\ImageEffectBase.cs" />
@@ -250,6 +253,7 @@
     <Compile Include="Assets\freeHDRI_assets\Standard Assets\Effects\ImageEffects\Scripts\BlurOptimized.cs" />
     <Compile Include="Assets\VRM\UniVRM\Scripts\SkinnedMeshUtility\BoneNormalizer.cs" />
     <Compile Include="Assets\PMXExporter\MMDataIO\Pmx\PmxModelData.cs" />
+    <Compile Include="Assets\Scripts\UI Scene\BackSceneMenuu.cs" />
     <Compile Include="Assets\VRM\UniHumanoid\Scripts\HumanPoseClip.cs" />
     <Compile Include="Assets\Infima Games\Low Poly Shooter Pack - Free Sample\Code\Character\Movement.cs" />
     <Compile Include="Assets\Data\MMD\mmd-for-unity-proj-mmd-for-unity-82ac2fe\Resources\Morph\VertexMorph.cs" />
@@ -307,6 +311,7 @@
     <Compile Include="Assets\Infima Games\Low Poly Shooter Pack - Free Sample\Code\Services\AudioManagerService.cs" />
     <Compile Include="Assets\VRM\UniJSON\Scripts\Json\JsonValue.cs" />
     <Compile Include="Assets\VRM\UniGLTF\Scripts\Format\ExtensionsAndExtras\glTFNode.cs" />
+    <Compile Include="Assets\Scripts\UI Scene\BacMenuResume.cs" />
     <Compile Include="Assets\Infima Games\Low Poly Shooter Pack - Free Sample\Code\Services\GameModeService.cs" />
     <Compile Include="Assets\Infima Games\Low Poly Shooter Pack - Free Sample\Code\Utilities\UtilitiesArrays.cs" />
     <Compile Include="Assets\Infima Games\Low Poly Shooter Pack - Free Sample\Code\Character\MovementBehaviour.cs" />
@@ -315,6 +320,7 @@
     <Compile Include="Assets\VRM\UniJSON\Scripts\JsonSchemaValidator\JsonDictionaryValidator.cs" />
     <Compile Include="Assets\VRM\UniGLTF\Scripts\IO\MaterialImporter.cs" />
     <Compile Include="Assets\VRM\UniVRM\Scripts\BlendShape\BlendShapeBindingMerger.cs" />
+    <Compile Include="Assets\Scripts\IngameSelectCharacter.cs" />
     <Compile Include="Assets\VRM\UniVRM\Scripts\LookAt\Matrix4x4Extensions.cs" />
     <Compile Include="Assets\VRM\UniHumanoid\Scripts\Format\Bvh.cs" />
     <Compile Include="Assets\Data\MMD\mmd-for-unity-proj-mmd-for-unity-82ac2fe\Resources\ExpressionManagerScript.cs" />
@@ -342,6 +348,7 @@
     <Compile Include="Assets\freeHDRI_assets\Standard Assets\Effects\ImageEffects\Scripts\ColorCorrectionLookup.cs" />
     <Compile Include="Assets\Infima Games\Low Poly Shooter Pack - Free Sample\Code\Weapons\Weapon.cs" />
     <Compile Include="Assets\VRM\UniHumanoid\Scripts\MuscleDebug.cs" />
+    <Compile Include="Assets\Scripts\EffectSliderMove.cs" />
     <Compile Include="Assets\EasyPolyMap\Code\EPMObjExporter.cs" />
     <Compile Include="Assets\VRM\UniHumanoid\Scripts\BoneGizmoDrawer.cs" />
     <Compile Include="Assets\VRM\UniGLTF\Scripts\IO\TextureLoader.cs" />
@@ -364,6 +371,7 @@
     <Compile Include="Assets\EasyPolyMap\Code\EPMMaterialAgent.cs" />
     <Compile Include="Assets\Infima Games\Tools\Log.cs" />
     <Compile Include="Assets\VRM\UniVRM\Scripts\Humanoid\VRMHumanoidDescription.cs" />
+    <Compile Include="Assets\Scripts\EffectToggleSetting.cs" />
     <Compile Include="Assets\VRM\UniJSON\Scripts\GenericCallUtility\GenericExpressionCallFactory.cs" />
     <Compile Include="Assets\VRM\UniVRM\Scripts\SpringBone\VRMSpringBone.cs" />
     <Compile Include="Assets\VRM\UniVRM\Scripts\LookAt\VRMLookAtBlendShapeApplyer.cs" />
@@ -378,6 +386,7 @@
     <Compile Include="Assets\PMXExporter\MMDataIO\Pmx\PmxVertexData.cs" />
     <Compile Include="Assets\Infima Games\Low Poly Shooter Pack - Free Sample\Code\Interface\TextAmmunitionTotal.cs" />
     <Compile Include="Assets\Scripts\Character\ButtonSelect.cs" />
+    <Compile Include="Assets\Scripts\UI Scene\TitletoStageSelect.cs" />
     <Compile Include="Assets\VRM\UniGLTF\Scripts\PreExportShaderProps\Unlit_Color.cs" />
     <Compile Include="Assets\VRM\UniHumanoid\Scripts\HumanPoseTransfer.cs" />
     <Compile Include="Assets\VRM\UniVRM\Scripts\SpringBone\VRMSpringUtility.cs" />
@@ -443,22 +452,14 @@
     <Compile Include="Assets\Scripts\UI Scene\FadeInText.cs" />
     <Compile Include="Assets\VRM\UniGLTF\Scripts\IO\MeshExporter.cs" />
     <Compile Include="Assets\freeHDRI_assets\Standard Assets\Effects\ImageEffects\Scripts\Grayscale.cs" />
+    <Compile Include="Assets\Scripts\UI Scene\HomeButtonStageSelect.cs" />
     <Compile Include="Assets\Infima Games\Tools\Looping\RLoops.cs" />
     <Compile Include="Assets\Scripts\SceneControl\SelectChatoHome.cs" />
     <Compile Include="Assets\freeHDRI_assets\Standard Assets\Effects\ImageEffects\Scripts\ColorCorrectionRamp.cs" />
     <Compile Include="Assets\VRM\UniHumanoid\PoseModifier\IPoseModifier.cs" />
     <Compile Include="Assets\freeHDRI_assets\Standard Assets\Effects\ImageEffects\Scripts\Triangles.cs" />
     <Compile Include="Assets\VRM\UniJSON\Scripts\JsonSchemaValidator\JsonArrayValidator.cs" />
-    <Compile Include="Assets\Scripts\UI Scene\TitletoStageSelect.cs" />
-    <Compile Include="Assets\Scripts\UI Scene\BackSceneMenuu.cs" />
-    <Compile Include="Assets\Scripts\UI Scene\StageSelectResumeBuutton.cs" />
-    <Compile Include="Assets\Scripts\UI Scene\HomeButtonStageSelect.cs" />
-    <Compile Include="Assets\Scripts\IngameSelectCharacter.cs" />
-    <Compile Include="Assets\Scripts\UI Scene\BacMenuResume.cs" />
-    <Compile Include="Assets\Scripts\UI Scene\PlayGameScene.cs" />
-    <Compile Include="Assets\Scripts\EffectControl.cs" />
-    <Compile Include="Assets\Scripts\EffectSliderMove.cs" />
-    <Compile Include="Assets\Scripts\EffectToggleSetting.cs" />
+    <Compile Include="Assets\Scripts\Map\TutoPlayerSpawn.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\freeHDRI_assets\Standard Assets\Effects\ImageEffects\Shaders\Tonemapper.shader" />
