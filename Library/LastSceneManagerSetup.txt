@@ -1,5 +1,3 @@
-sceneSetups:
-- path: Assets/Scenes/SelectCharacterInGame.unity
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0
+version https://git-lfs.github.com/spec/v1
+oid sha256:6bceee480f2ed13e0043aeb10773df9f52d23c29b006df70eca832050923eab5
+size 107
