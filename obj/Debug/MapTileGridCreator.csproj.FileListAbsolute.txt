@@ -1,7 +1,5 @@
 E:\Unity\new portkkj3d\newportkkj3d2\Temp\Bin\Debug\MapTileGridCreator.dll
 E:\Unity\new portkkj3d\newportkkj3d2\Temp\Bin\Debug\MapTileGridCreator.pdb
-E:\Unity\new portkkj3d\newportkkj3d2\Temp\Bin\Debug\EasyPolyMapCore.dll
-E:\Unity\new portkkj3d\newportkkj3d2\Temp\Bin\Debug\LitJson.dll
 E:\Unity\new portkkj3d\newportkkj3d2\Temp\Bin\Debug\log4netPlastic.dll
 E:\Unity\new portkkj3d\newportkkj3d2\Temp\Bin\Debug\Microsoft.Win32.Primitives.dll
 E:\Unity\new portkkj3d\newportkkj3d2\Temp\Bin\Debug\mscorlib.dll

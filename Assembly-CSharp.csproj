@@ -72,8 +72,8 @@
     <Compile Include="Assets\VRM\DepthFirstScheduler\LockQueue.cs" />
     <Compile Include="Assets\VRM\UniVRM\Scripts\SpringBone\VRMSpringBoneColliderGroup.cs" />
     <Compile Include="Assets\VRM\UniGLTF\Scripts\Format\glTFMaterial.cs" />
-    <Compile Include="Assets\Scripts\Character\Characterssss.cs" />
     <Compile Include="Assets\VRM\UniGLTF\Scripts\UniGLTFVersion.cs" />
+    <Compile Include="Assets\Scripts\Character\Characterssss.cs" />
     <Compile Include="Assets\VRM\UniJSON\Scripts\MsgPack\EndianConverter.cs" />
     <Compile Include="Assets\VRM\UniJSON\Scripts\ConcreteCast.g.cs" />
     <Compile Include="Assets\VRM\UniGLTF\Scripts\Extensions\ArrayExtensions.cs" />
@@ -114,15 +114,15 @@
     <Compile Include="Assets\PMXExporter\MMDataIO\Pmx\PmxMorphData.cs" />
     <Compile Include="Assets\Infima Games\Low Poly Shooter Pack - Free Sample\Code\Legacy\ExplosiveBarrelScript.cs" />
     <Compile Include="Assets\VRM\UniGLTF\Scripts\Format\glbTypes.cs" />
-    <Compile Include="Assets\VRM\UniJSON\Scripts\IStore\StringBuilderStore.cs" />
     <Compile Include="Assets\Infima Games\Low Poly Shooter Pack - Free Sample\Code\Legacy\TargetScript.cs" />
-    <Compile Include="Assets\Scripts\Character\CharacterSelectManager.cs" />
+    <Compile Include="Assets\VRM\UniJSON\Scripts\IStore\StringBuilderStore.cs" />
     <Compile Include="Assets\Infima Games\Low Poly Shooter Pack - Free Sample\Code\Animation\AnimationReceiver.cs" />
+    <Compile Include="Assets\Scripts\Character\CharacterSelectManager.cs" />
+    <Compile Include="Assets\VRM\UniJSON\Scripts\IFormatter.cs" />
     <Compile Include="Assets\VRM\UniVRM\Scripts\LookAt\LookAtTargetSwitcher.cs" />
     <Compile Include="Assets\VRM\DepthFirstScheduler\Scheduler\ThreadScheduler.cs" />
     <Compile Include="Assets\VRM\UniVRM\Scripts\Format\VRMVersionPartial.cs" />
     <Compile Include="Assets\VRM\UniVRM\Scripts\LookAt\LookTarget.cs" />
-    <Compile Include="Assets\VRM\UniJSON\Scripts\IFormatter.cs" />
     <Compile Include="Assets\VRM\UniGLTF\Scripts\Format\glTF.cs" />
     <Compile Include="Assets\VRM\UniVRM\Scripts\Format\glTF_VRM_BlendShape.cs" />
     <Compile Include="Assets\VRM\UniVRM\Scripts\LookAt\CurveMapper.cs" />
@@ -149,8 +149,8 @@
     <Compile Include="Assets\Infima Games\Low Poly Shooter Pack - Free Sample\Code\Weapons\WeaponAttachmentManagerBehaviour.cs" />
     <Compile Include="Assets\VRM\UniVRM\Scripts\Format\VRMMaterialImporter.cs" />
     <Compile Include="Assets\VRM\UniJSON\Scripts\JsonSchemaValidator\JsonObjectValidator.cs" />
-    <Compile Include="Assets\Scripts\Character\Warrior.cs" />
     <Compile Include="Assets\Infima Games\Low Poly Shooter Pack - Free Sample\Code\Legacy\CasingScript.cs" />
+    <Compile Include="Assets\Scripts\Character\Warrior.cs" />
     <Compile Include="Assets\VRM\UniJSON\Scripts\Utf8String\IUtf8String.cs" />
     <Compile Include="Assets\VRM\UniVRM\Scripts\Format\glTF_VRM_SecondaryAnimation.cs" />
     <Compile Include="Assets\VRM\UniJSON\Scripts\ListTreeNode\ListTreeNodeJsonPointerExtensions.cs" />
@@ -206,9 +206,9 @@
     <Compile Include="Assets\VRM\UniGLTF\Scripts\IO\MeshWithMaterials.cs" />
     <Compile Include="Assets\VRM\UniJSON\Scripts\JsonSchemaValidator\JsonEnumValidator.cs" />
     <Compile Include="Assets\VRM\UniJSON\Scripts\IStore\StreamStore.cs" />
-    <Compile Include="Assets\Infima Games\Low Poly Shooter Pack - Free Sample\Code\Weapons\MagazineBehaviour.cs" />
     <Compile Include="Assets\VRM\UniJSON\Scripts\ActionDisposer.cs" />
     <Compile Include="Assets\VRM\UniJSON\Scripts\JsonSchemaValidator\JsonNumberValidator.cs" />
+    <Compile Include="Assets\Infima Games\Low Poly Shooter Pack - Free Sample\Code\Weapons\MagazineBehaviour.cs" />
     <Compile Include="Assets\VRM\UniVRM\Scripts\BlendShape\BlendShapeMerger.cs" />
     <Compile Include="Assets\Scripts\UI Scene\StageSelectResumeBuutton.cs" />
     <Compile Include="Assets\VRM\UniJSON\Scripts\ITreeNode.cs" />
@@ -250,8 +250,8 @@
     <Compile Include="Assets\PMXExporter\MMDataIO\Pmx\PmxHeaderData.cs" />
     <Compile Include="Assets\VRM\UniVRM\Scripts\LookAt\VRMLookAtHead.cs" />
     <Compile Include="Assets\VRM\UniGLTF\Scripts\Format\ExtensionsAndExtras\glTFExtensions.cs" />
-    <Compile Include="Assets\Infima Games\Low Poly Shooter Pack - Free Sample\Code\Interface\TextTutorial.cs" />
     <Compile Include="Assets\Scripts\Data\PlayerData.cs" />
+    <Compile Include="Assets\Infima Games\Low Poly Shooter Pack - Free Sample\Code\Interface\TextTutorial.cs" />
     <Compile Include="Assets\VRM\UniVRM\Scripts\FirstPerson\VRMFirstPerson.cs" />
     <Compile Include="Assets\Data\MMD\mmd-for-unity-proj-mmd-for-unity-82ac2fe\Resources\IK\BoneController.cs" />
     <Compile Include="Assets\Scripts\Data\MonsterData.cs" />
@@ -293,8 +293,8 @@
     <Compile Include="Assets\VRM\UniJSON\Scripts\Json\JsonValue.cs" />
     <Compile Include="Assets\Scripts\Enemy\SkeletonWeapon.cs" />
     <Compile Include="Assets\VRM\UniGLTF\Scripts\Format\ExtensionsAndExtras\glTFNode.cs" />
-    <Compile Include="Assets\Scripts\UI Scene\BacMenuResume.cs" />
     <Compile Include="Assets\Infima Games\Low Poly Shooter Pack - Free Sample\Code\Services\GameModeService.cs" />
+    <Compile Include="Assets\Scripts\UI Scene\BacMenuResume.cs" />
     <Compile Include="Assets\Infima Games\Low Poly Shooter Pack - Free Sample\Code\Utilities\UtilitiesArrays.cs" />
     <Compile Include="Assets\Infima Games\Low Poly Shooter Pack - Free Sample\Code\Character\MovementBehaviour.cs" />
     <Compile Include="Assets\Data\MMD\mmd-for-unity-proj-mmd-for-unity-82ac2fe\Resources\MMDEngine.cs" />
@@ -358,8 +358,8 @@
     <Compile Include="Assets\VRM\UniGLTF\Scripts\IO\AnimationCurveData.cs" />
     <Compile Include="Assets\VRM\UniJSON\Scripts\ListTreeNode\ListTreeNodeArrayExtensions.cs" />
     <Compile Include="Assets\VRM\UniVRM\Scripts\BlendShape\BlendShapeClip.cs" />
-    <Compile Include="Assets\VRM\UniJSON\Scripts\Utf8String\Utf8StringExtensions.cs" />
     <Compile Include="Assets\VRM\UniGLTF\Scripts\IO\TextureIO.cs" />
+    <Compile Include="Assets\VRM\UniJSON\Scripts\Utf8String\Utf8StringExtensions.cs" />
     <Compile Include="Assets\PMXExporter\MMDataIO\Pmx\PmxVertexData.cs" />
     <Compile Include="Assets\Infima Games\Low Poly Shooter Pack - Free Sample\Code\Interface\TextAmmunitionTotal.cs" />
     <Compile Include="Assets\Scripts\Character\ButtonSelect.cs" />
@@ -428,6 +428,7 @@
     <Compile Include="Assets\Scripts\SceneControl\SelectChatoHome.cs" />
     <Compile Include="Assets\VRM\UniHumanoid\PoseModifier\IPoseModifier.cs" />
     <Compile Include="Assets\VRM\UniJSON\Scripts\JsonSchemaValidator\JsonArrayValidator.cs" />
+    <Compile Include="Assets\Scripts\UI Scene\SkeletonHP.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
@@ -1083,26 +1084,14 @@
     <Reference Include="Unity.VisualStudio.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.Formats.Fbx.Runtime">
-      <HintPath>Library\ScriptAssemblies\Unity.Formats.Fbx.Runtime.dll</HintPath>
-    </Reference>
-    <Reference Include="Autodesk.Fbx.Editor">
-      <HintPath>Library\ScriptAssemblies\Autodesk.Fbx.Editor.dll</HintPath>
-    </Reference>
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
       <HintPath>Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.Formats.Fbx.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.Formats.Fbx.Editor.dll</HintPath>
-    </Reference>
     <Reference Include="Unity.TextMeshPro">
       <HintPath>Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.2D.Sprite.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
       <HintPath>Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
@@ -1112,9 +1101,6 @@
     </Reference>
     <Reference Include="Unity.Rider.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Autodesk.Fbx">
-      <HintPath>Library\ScriptAssemblies\Autodesk.Fbx.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
       <HintPath>Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
